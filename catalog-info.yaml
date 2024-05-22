@@ -12,6 +12,6 @@ metadata:
       url: https://nginx.org/en/
 spec:
   type: website
-  owner: group:default/team-devops
+  owner: group:default/team-management
   lifecycle: experimental
-  system: isd-system
+  system: spklab-demo-engeneering
