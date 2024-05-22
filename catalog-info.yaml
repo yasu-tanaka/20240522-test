@@ -14,4 +14,4 @@ spec:
   type: website
   owner: group:default/team-management
   lifecycle: experimental
-  system: system:default/spklab-demo-engeneering
+  system: system:default/spklab-demo-engineering
